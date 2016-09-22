@@ -17,7 +17,7 @@ describe("The arguments array", function() {
 });
 
 
-// This will explore the idea that JS' functions are just values that can be passed aroudn.
+// This will explore the idea that JS' functions are just values that can be passed around.
 // For example, here we can have a function that creates another function.
 describe("higher-order functions", function() {
   
